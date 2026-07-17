@@ -1,0 +1,5 @@
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Release/net10.0/publish/ClassGitSources
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Release/net10.0/publish/ClassGitSources.dll
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Release/net10.0/publish/ClassGitSources.deps.json
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Release/net10.0/publish/ClassGitSources.runtimeconfig.json
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Release/net10.0/publish/ClassGitSources.pdb

@@ -1,0 +1,14 @@
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Debug/net10.0/ClassGitSources
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Debug/net10.0/ClassGitSources.deps.json
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Debug/net10.0/ClassGitSources.runtimeconfig.json
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Debug/net10.0/ClassGitSources.dll
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/bin/Debug/net10.0/ClassGitSources.pdb
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.GeneratedMSBuildEditorConfig.editorconfig
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.AssemblyInfoInputs.cache
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.AssemblyInfo.cs
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.csproj.CoreCompileInputs.cache
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.dll
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/refint/ClassGitSources.dll
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.pdb
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ClassGitSources.genruntimeconfig.cache
+/home/roma/Рабочий стол/classgit/ClassGitSources/ClassGitSources/obj/Debug/net10.0/ref/ClassGitSources.dll
